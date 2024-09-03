@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
-<h3 align="center">Half-Time Full-Stack Developer, Kinda Data Scientist</h3>
+<h3 align="center">Half-Time Full-Stack Developer, and the other half for Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkedemirbd&label=Profile%20views&color=0e75b6&style=flat" alt="berkedemirbd" /> </p>
 
@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/berkedemirbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkedemirbd" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/berke-demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="berke-demir" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27184695/berke-demİr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="berke-demir" height="30" width="40" /></a>
 <a href="https://kaggle.com/berkedemirbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="berkedemirbd" height="30" width="40" /></a>
 <a href="https://medium.com/@berkedemirbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkedemirbd" height="30" width="40" /></a>
 </p>
