@@ -4,8 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=berkedemirbd&label=Profile%20views&color=0e75b6&style=flat" alt="berkedemirbd" /> </p>
 
 
-<h3 style="align: center;">Connect with me:</h3>
+
 <div style="text-align: center;">
+    <h3 style="align: center;">Connect with me:</h3>
     <a href="https://linkedin.com/in/berkedemirbd" target="blank" style="margin: 0 10px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkedemirbd" height="30" width="40" />
     </a>
