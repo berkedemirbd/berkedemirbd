@@ -6,22 +6,21 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div style="text-align: center;" class="connect">
-    <p style="display: inline-block; text-align: center;">
-        <a href="https://linkedin.com/in/berkedemirbd" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkedemirbd" height="30" width="40" />
-        </a>
-        <a href="https://stackoverflow.com/users/27184695/berke-demİr" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="berke-demir" height="30" width="40" />
-        </a>
-        <a href="https://kaggle.com/berkedemirbd" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="berkedemirbd" height="30" width="40" />
-        </a>
-        <a href="https://medium.com/@berkedemirbd" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkedemirbd" height="30" width="40" />
-        </a>
-    </p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://linkedin.com/in/berkedemirbd" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkedemirbd" height="30" width="40" />
+    </a>
+    <a href="https://stackoverflow.com/users/27184695/berke-demİr" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="berke-demir" height="30" width="40" />
+    </a>
+    <a href="https://kaggle.com/berkedemirbd" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="berkedemirbd" height="30" width="40" />
+    </a>
+    <a href="https://medium.com/@berkedemirbd" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkedemirbd" height="30" width="40" />
+    </a>
 </div>
+
 
 
 
