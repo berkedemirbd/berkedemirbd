@@ -5,7 +5,7 @@
 
 
 <h3 align="center">Connect with me:</h3>
-<div style="text-align: center; align-items: center" class="connect">
+<div style="text-align: center; align-items: center;" class="connect">
 
 <p align="left">
 <a href="https://linkedin.com/in/berkedemirbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkedemirbd" height="30" width="40" /></a>
