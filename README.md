@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Analytics Specialist / Decision Intelligence Eng.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=berkedemirbd&label=Profile%20views&color=0e75b6&style=flat" alt="berkedemirbd" /> </p>
 
